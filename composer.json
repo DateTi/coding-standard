@@ -1,0 +1,14 @@
+{
+    "name": "dateti/coding-standard",
+    "description": "Coding standards for DateTi",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Jan Galek",
+            "email": "admin@gcore.cz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
