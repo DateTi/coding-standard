@@ -10,6 +10,7 @@
         }
     ],
     "minimum-stability": "stable",
+    "bin": ["vendor/galek/coding-standard/ecs"],
     "require": {
         "galek/coding-standard": "^2.1"
     }
