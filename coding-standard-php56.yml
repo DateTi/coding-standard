@@ -57,7 +57,7 @@ services:
     # General rules - https://nette.org/en/coding-standard#toc-general-rules
 
     # use tabs over spaces
-    PHP_CodeSniffer\Standards\Generic\Sniffs\WhiteSpace\DisallowSpaceIndentSniff: ~
+    #PHP_CodeSniffer\Standards\Generic\Sniffs\WhiteSpace\DisallowSpaceIndentSniff: ~
     # PHP code must use only UTF-8 without BOM
     PhpCsFixer\Fixer\Basic\EncodingFixer: ~
     # <?php opening tag
